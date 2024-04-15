@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image, ImageEnhance
 from streamlit_drawable_canvas import st_canvas
 from streamlit_cropper import st_cropper
-import cv2
 import os
 import csv
 from openpyxl import load_workbook
