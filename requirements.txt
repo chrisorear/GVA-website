@@ -5,3 +5,5 @@ streamlit
 streamlit-cropper
 streamlit-drawable-canvas
 pillow
+os
+csv
