@@ -39,7 +39,6 @@ def canvas(cropped_image):
     aspect_ratio = width / height
     bg_image = cropped_image
         # Create a canvas component for each image
-    st.image(bg_image)
     canvas_result1 = st_canvas(
         fill_color="rgba(255, 255, 255, 0)", # Fixed fill color with some opacity
         stroke_width=stroke_width,
