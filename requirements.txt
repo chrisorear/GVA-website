@@ -1,7 +1,7 @@
-numpy==1.24.3
-openpyxl==3.1.2
-pandas==2.0.2
-streamlit==1.30.0
-streamlit-cropper==0.2.2
-streamlit-drawable-canvas==0.9.3
+numpy
+openpyxl
+pandas
+streamlit
+streamlit-cropper
+streamlit-drawable-canvas
 pillow
